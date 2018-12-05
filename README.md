@@ -7,6 +7,7 @@ A docker image which is built on Debian 9.6 and python, git and node installed. 
 1. Python 3.5.6
 2. Git 2.11.0
 3. Node 10.14.1
+4. Yarn 1.12.3
 
 ### Build Commands
 ```
