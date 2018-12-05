@@ -8,6 +8,7 @@ A docker image which is built on Debian 9.6 and python, git and node installed. 
 2. Git 2.11.0
 3. Node 10.14.1
 4. Yarn 1.12.3
+5. Nano 2.7.4
 
 
 ### Build Commands
@@ -37,5 +38,11 @@ root@b44e081cc750:/# node --version
 v10.14.1
 root@b44e081cc750:/# npm --version
 6.4.1
+root@b44e081cc750:/# nano --version
+ GNU nano, version 2.7.4
+ (C) 1999..2016 Free Software Foundation, Inc.
+ (C) 2014..2016 the contributors to nano
+ Email: nano@nano-editor.org	Web: https://nano-editor.org/
+ Compiled options: --disable-libmagic --disable-wrapping-as-root --enable-utf8
 root@b44e081cc750:/#
 ```
