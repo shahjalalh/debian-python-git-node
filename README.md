@@ -5,8 +5,8 @@ A docker image which is built on Debian 9.6 and python, git and node installed. 
 
 ### Installed in the Image
 1. Python 3.5.6
-2. Git
-3. Node (not yet installed)
+2. Git 2.11.0
+3. Node 10.14.1
 
 ### Build Commands
 ```
